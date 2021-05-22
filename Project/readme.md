@@ -35,7 +35,7 @@ The machine powers by spinning the first axle(using the lever
 
 The 3 motion studies show the machine movement in the 3 states neutral, first gear, second gear
 
-##File types in repository
+## File types in repository
   -.f3d
   -.gif
   -.png

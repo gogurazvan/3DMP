@@ -41,3 +41,7 @@ The 3 motion studies show the machine movement in the 3 states neutral, first ge
   -.png
   
 ## Software Used: Autodesk Fusion 360
+
+## Authors:
+[ThingyVerse](https://www.thingiverse.com/thing:1545560)
+[YouTube](https://www.youtube.com/watch?v=tE7LvsK4Y_s&feature=youtu.be)

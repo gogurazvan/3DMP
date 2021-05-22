@@ -11,7 +11,7 @@ In neutral state the ring doesn't interact with any cog so no movement is transm
 In first gear the ring goes near the small cog and moves it, the small gear will spin a bigger gear that is connected to the 2nd axle that moves the rotor. Due to gear ratio the second axle with the big gear will have less rotational speed than the first.
 In second gear the ring goes near the big cog and moves it, the big gear will spin a smaller gear that is connected to the 2nd axle that moves the rotor. Due to gear ratio the second axle with the small gear will have more rotational speed than the first.
 ```
-##Components and Joints
+## Components and Joints
 
 ```
 Important-Components:
@@ -30,7 +30,7 @@ Joints:
                 has a contact set with the cogs on the first axle that allows it to put them in motion
 ```
 
-##Powering
+## Powering
 The machine powers by spinning the first axle(using the lever
 
 The 3 motion studies show the machine movement in the 3 states neutral, first gear, second gear
@@ -40,6 +40,4 @@ The 3 motion studies show the machine movement in the 3 states neutral, first ge
   -.gif
   -.png
   
-##Software Used: Autodesk Fusion 360
-
-##Software Used: Autodesk Fusion 360
+## Software Used: Autodesk Fusion 360
